@@ -1,2 +1,2 @@
 # Python
-Repositório da materia Lógica da Python
+Repositório da materia Python
